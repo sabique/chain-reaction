@@ -1,0 +1,24 @@
+{
+  "name": "chain-reaction",
+  "version": "1.0.0",
+  "description": "A strategy game for 2 to 8 players.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DA strategy game for multiplayers.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabique/chain-reaction.git"
+  },
+  "keywords": [
+    "chain-reaction",
+    "game",
+    "javascript"
+  ],
+  "author": "Sabique Ahmed Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabique/chain-reaction/issues"
+  },
+  "homepage": "https://github.com/sabique/chain-reaction#readme"
+}
